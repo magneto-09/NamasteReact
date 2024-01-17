@@ -1,0 +1,14 @@
+{
+  "name": "namaste_react001",
+  "version": "1.0.0",
+  "description": "Namaste React by akshay saini",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Akshay Saini",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.11.0"
+  }
+}
