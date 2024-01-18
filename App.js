@@ -1,15 +1,5 @@
-/* Creating a nested structure. 
-
-<div id="parent">
-
-<div id="child">
-<h1> I'm an H1 Tag </h1>
-<h2> I'm an H2 Tag </h2>
-</div>
-
-</div>
-
-*/
+import React from "react";
+import ReactDOM from "react-dom/client"
 
 const parent = React.createElement(
   "div",
